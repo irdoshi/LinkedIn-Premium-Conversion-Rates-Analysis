@@ -1,0 +1,43 @@
+li_premium,satisfaction_lv,freq_of_use,li_prem_adv_over_rest,li_prem_adv_over_rest_bin,inmail_effectiveness,applicant_insights_effectiveness,linkedin_learning_effectiveness,profile_insights_effectiveness,pre_services,Applicant insights,InMail,Linkedin Learning,Private browsing,Profile insights,Who Viewed your profile,add_features,Company reviews on job postings,Job market analytics,Mentorship programs,Others,Personalized recommendations,Resume builder
+1,2,5,Yes,1,5,5,5,5,"InMail,Applicant insights,Linkedin Learning,Profile insights,Private browsing,Who Viewed your profile",1,1,1,1,1,1,"Resume builder,Company reviews on job postings,Job market analytics,Personalized recommendations,Mentorship programs",1,1,1,0,1,1
+1,1,4,Yes,1,3,2,3,1,"InMail,Applicant insights,Profile insights,Who Viewed your profile",1,1,0,0,1,1,"Resume builder,Job market analytics,Personalized recommendations",0,1,0,0,1,1
+1,2,4,No,0,4,3,-1,4,"InMail,Applicant insights,Profile insights,Who Viewed your profile",1,1,0,0,1,1,"Resume builder,Company reviews on job postings,Job market analytics,Personalized recommendations",1,1,0,0,1,1
+0,1,5,No,0,1,1,3,1,"InMail,Private browsing,Who Viewed your profile",0,1,0,1,0,1,Resume builder,0,0,0,0,0,1
+0,5,5,Yes,1,5,5,5,5,"InMail,Linkedin Learning",0,1,1,0,0,0,Job market analytics,0,1,0,0,0,0
+1,2,3,No,0,2,1,1,1,"Applicant insights,Profile insights,Private browsing,Who Viewed your profile",1,0,0,1,1,1,"Company reviews on job postings,Job market analytics,Mentorship programs",1,1,1,0,0,0
+0,3,4,Yes,1,2,3,4,3,"InMail,Applicant insights,Profile insights,Who Viewed your profile",1,1,0,0,1,1,"Resume builder,Company reviews on job postings,Job market analytics,Mentorship programs",1,1,1,0,0,1
+1,3,5,Yes,1,5,3,-1,4,"InMail,Applicant insights,Private browsing,Who Viewed your profile",1,1,0,1,0,1,"Resume builder,Personalized recommendations,Others",0,0,0,1,1,1
+1,1,4,No,0,2,3,1,3,"InMail,Applicant insights,Linkedin Learning,Profile insights,Private browsing,Who Viewed your profile",1,1,1,1,1,1,"Resume builder,Company reviews on job postings,Job market analytics,Personalized recommendations,Mentorship programs",1,1,1,0,1,1
+0,2,2,No,0,-1,-1,3,-1,"Linkedin Learning,Who Viewed your profile",0,0,1,0,0,1,Others,0,0,0,1,0,0
+0,3,4,No,0,3,3,1,4,"InMail,Applicant insights,Profile insights,Private browsing,Who Viewed your profile",1,1,0,1,1,1,"Resume builder,Company reviews on job postings,Job market analytics,Personalized recommendations,Others",1,1,0,1,1,1
+1,4,2,Yes,1,4,4,4,4,"InMail,Applicant insights,Linkedin Learning",1,1,1,0,0,0,"Company reviews on job postings,Job market analytics,Mentorship programs",1,1,1,0,0,0
+0,2,2,No,0,1,3,1,4,"InMail,Applicant insights,Who Viewed your profile",1,1,0,0,0,1,"Company reviews on job postings,Job market analytics,Personalized recommendations,Others",1,1,0,1,1,0
+0,3,2,Yes,1,-1,-1,5,3,"Linkedin Learning,Who Viewed your profile",0,0,1,0,0,1,"Resume builder,Company reviews on job postings,Job market analytics",1,1,0,0,0,1
+1,2,5,No,0,5,1,1,3,"InMail,Applicant insights,Linkedin Learning,Profile insights,Private browsing,Who Viewed your profile",1,1,1,1,1,1,"Company reviews on job postings,Job market analytics,Mentorship programs",1,1,1,0,0,0
+0,3,2,No,0,2,3,3,4,"InMail,Linkedin Learning,Profile insights,Who Viewed your profile",0,1,1,0,1,1,"Company reviews on job postings,Job market analytics,Personalized recommendations,Mentorship programs",1,1,1,0,1,0
+0,2,4,Yes,1,-1,-1,3,3,"Linkedin Learning,Profile insights,Who Viewed your profile",0,0,1,0,1,1,"Resume builder,Company reviews on job postings,Job market analytics,Personalized recommendations,Mentorship programs",1,1,1,0,1,1
+0,4,3,No,0,4,-1,4,-1,"InMail,Linkedin Learning,Who Viewed your profile",0,1,1,0,0,1,"Resume builder,Company reviews on job postings,Personalized recommendations,Mentorship programs",1,0,1,0,1,1
+0,2,3,Yes,1,3,-1,3,-1,"InMail,Applicant insights,Linkedin Learning,Profile insights,Who Viewed your profile",1,1,1,0,1,1,"Resume builder,Company reviews on job postings,Job market analytics,Personalized recommendations",1,1,0,0,1,1
+1,2,5,No,0,2,1,1,1,"InMail,Profile insights,Private browsing,Who Viewed your profile",0,1,0,1,1,1,Personalized recommendations,0,0,0,0,1,0
+0,2,2,No,0,4,3,3,4,"InMail,Applicant insights,Linkedin Learning,Profile insights,Who Viewed your profile",1,1,1,0,1,1,"Resume builder,Company reviews on job postings,Job market analytics,Mentorship programs",1,1,1,0,0,1
+0,3,4,No,0,1,1,1,3,Who Viewed your profile,0,0,0,0,0,1,"Company reviews on job postings,Job market analytics,Personalized recommendations",1,1,0,0,1,0
+1,2,5,Yes,1,5,5,3,5,"InMail,Applicant insights,Linkedin Learning,Profile insights,Private browsing,Who Viewed your profile",1,1,1,1,1,1,"Resume builder,Company reviews on job postings,Job market analytics,Personalized recommendations,Mentorship programs",1,1,1,0,1,1
+1,1,2,Yes,1,4,2,1,4,"InMail,Applicant insights,Profile insights,Private browsing,Who Viewed your profile",1,1,0,1,1,1,"Resume builder,Company reviews on job postings,Job market analytics,Personalized recommendations,Mentorship programs,Others",1,1,1,1,1,1
+1,2,4,No,0,3,1,1,1,"InMail,Applicant insights,Linkedin Learning,Profile insights,Private browsing,Who Viewed your profile",1,1,1,1,1,1,"Company reviews on job postings,Mentorship programs",1,0,1,0,0,0
+0,4,2,Yes,1,2,2,-1,3,"InMail,Linkedin Learning,Profile insights,Private browsing,Who Viewed your profile",0,1,1,1,1,1,"Resume builder,Job market analytics,Personalized recommendations,Mentorship programs",0,1,1,0,1,1
+0,4,4,Yes,1,5,4,-1,3,"InMail,Applicant insights,Who Viewed your profile",1,1,0,0,0,1,"Resume builder,Personalized recommendations,Mentorship programs",0,0,1,0,1,1
+1,4,5,Yes,1,4,1,4,1,"InMail,Private browsing,Who Viewed your profile",0,1,0,1,0,1,"Personalized recommendations,Mentorship programs",0,0,1,0,1,0
+0,4,3,No,0,3,4,2,3,"InMail,Linkedin Learning,Profile insights,Who Viewed your profile",0,1,1,0,1,1,"Company reviews on job postings,Personalized recommendations,Mentorship programs",1,0,1,0,1,0
+1,4,5,Yes,1,2,5,2,4,"InMail,Applicant insights,Linkedin Learning,Profile insights,Private browsing,Who Viewed your profile",1,1,1,1,1,1,"Company reviews on job postings,Job market analytics,Personalized recommendations",1,1,0,0,1,0
+0,4,4,Yes,1,3,-1,4,4,"InMail,Linkedin Learning,Private browsing,Who Viewed your profile",0,1,1,1,0,1,"Company reviews on job postings,Job market analytics",1,1,0,0,0,0
+1,2,2,No,0,1,1,5,-1,"InMail,Applicant insights,Linkedin Learning",1,1,1,0,0,0,"Resume builder,Company reviews on job postings,Job market analytics,Mentorship programs",1,1,1,0,0,1
+1,3,5,No,0,1,1,1,1,"InMail,Applicant insights,Profile insights,Private browsing,Who Viewed your profile",1,1,0,1,1,1,"Resume builder,Job market analytics,Personalized recommendations",0,1,0,0,1,1
+1,3,4,No,0,1,1,1,1,"InMail,Applicant insights,Private browsing,Who Viewed your profile",1,1,0,1,0,1,Others,0,0,0,1,0,0
+0,2,5,Yes,1,4,4,2,3,"InMail,Profile insights,Who Viewed your profile",0,1,0,0,1,1,Resume builder,0,0,0,0,0,1
+1,5,5,Yes,1,5,5,5,5,"Applicant insights,Profile insights,Private browsing,Who Viewed your profile",1,0,0,1,1,1,"Resume builder,Company reviews on job postings,Job market analytics,Personalized recommendations,Mentorship programs",1,1,1,0,1,1
+1,2,4,No,0,1,3,-1,1,"InMail,Applicant insights,Linkedin Learning",1,1,1,0,0,0,"Job market analytics,Personalized recommendations,Mentorship programs",0,1,1,0,1,0
+1,4,5,No,0,5,3,4,2,"InMail,Applicant insights,Linkedin Learning,Profile insights,Private browsing,Who Viewed your profile",1,1,1,1,1,1,"Resume builder,Company reviews on job postings,Personalized recommendations",1,0,0,0,1,1
+0,1,3,No,0,-1,-1,2,-1,Linkedin Learning,0,0,1,0,0,0,"Resume builder,Personalized recommendations,Mentorship programs",0,0,1,0,1,1
+1,1,5,No,0,5,3,3,3,"InMail,Applicant insights,Profile insights,Private browsing,Who Viewed your profile",1,1,0,1,1,1,"Job market analytics,Personalized recommendations",0,1,0,0,1,0
+1,2,5,Yes,1,3,3,1,2,"InMail,Applicant insights",1,1,0,0,0,0,Personalized recommendations,0,0,0,0,1,0
+0,4,5,No,0,4,3,1,2,"InMail,Applicant insights,Linkedin Learning,Profile insights,Who Viewed your profile",1,1,1,0,1,1,"Resume builder,Job market analytics,Mentorship programs",0,1,1,0,0,1
